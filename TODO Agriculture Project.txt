@@ -1,0 +1,5 @@
+1. List of diseased/all/un-diseased plants 
+	Make a new scene / same scene but change camera x position
+	Have List in Script atached to canvas maybe
+	Instantiate Text along with button (for details?) Prefab as required
+2. Farm scene; keep button near the particular plant
